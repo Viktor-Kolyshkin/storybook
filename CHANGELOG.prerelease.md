@@ -1,3 +1,11 @@
+## 10.6.0-alpha.8
+
+- Angular: Migrate Analog projects to angular-vite instead of refusing them - [#35971](https://github.com/storybookjs/storybook/pull/35971), thanks @valentinpalkovic!
+- Angular: Resolve builder styles against the workspace root - [#35974](https://github.com/storybookjs/storybook/pull/35974), thanks @valentinpalkovic!
+- Docs: Declare the font on overlay surfaces so docs tooltips are not left to inherit - [#35966](https://github.com/storybookjs/storybook/pull/35966), thanks @valentinpalkovic!
+- Docs: Surface the story-docs snippet warning in docs and the Code panel - [#35965](https://github.com/storybookjs/storybook/pull/35965), thanks @valentinpalkovic!
+- Vue: Fix docgen slot, exposed-member, and add warning for snippet losses - [#35958](https://github.com/storybookjs/storybook/pull/35958), thanks @huang-julien!
+
 ## 10.6.0-alpha.7
 
 - Angular: Bind only what the component accepts in story snippets, and report the rest - [#35943](https://github.com/storybookjs/storybook/pull/35943), thanks @valentinpalkovic!
